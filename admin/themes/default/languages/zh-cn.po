@@ -1,0 +1,35 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin-Theme\n"
+"POT-Creation-Date: 2014-05-30 14:37+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../template.php:50
+msgid "Hide admin menu"
+msgstr "隐藏的管理菜单"
+
+#: ../template.php:64
+msgid "Welcome"
+msgstr "欢迎"
+
+#: ../template.php:81
+msgid "Profile"
+msgstr "个人资料"
+
+#: ../template.php:84
+msgid "Sign out"
+msgstr "退出"
+
+#: ../template.php:97
+msgid "Admin Menu"
+msgstr "管理菜单"

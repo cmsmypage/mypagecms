@@ -1,0 +1,36 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin-Theme\n"
+"POT-Creation-Date: 2014-05-30 14:35+0700\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language-Team: Alexandre Benegas <info@adaptivemobile.com.br>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../template.php:50
+msgid "Hide admin menu"
+msgstr "Ocultar Menu Administração"
+
+#: ../template.php:64
+msgid "Welcome"
+msgstr "Bem-vindo"
+
+#: ../template.php:81
+msgid "Profile"
+msgstr "Meu Perfil"
+
+#: ../template.php:84
+msgid "Sign out"
+msgstr "Sair"
+
+#: ../template.php:97
+msgid "Admin Menu"
+msgstr "Menu Admin"
